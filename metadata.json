@@ -1,0 +1,6 @@
+{
+  "name": "CyberPitch Live - Trung Tâm Bóng Đá Số & Tỉ Số Trực Tiếp",
+  "description": "Nền tảng bóng đá số thế hệ mới: tỉ số trực tiếp tức thì, thông báo bàn thắng, xem highlight, lịch thi đấu & BXH các giải đấu hàng đầu, nhận định chuyên gia và bình luận thời gian thực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
