@@ -127,8 +127,8 @@ export const HeroPitchBanner: React.FC<HeroPitchBannerProps> = ({
       {/* Background Graphic Asset: Photorealistic low-angle cyber soccer cleats on glowing circuit glass pitch */}
       <div className="relative aspect-[21/9] min-h-[320px] sm:min-h-[420px] w-full overflow-hidden">
         <img
-          src="/src/assets/images/cyber_pitch_cleats_hero_1790513556958.jpg"
-          alt="Cận cảnh góc thấp đôi giày đá bóng giẫm lên mặt sân cỏ số với bảng mạch điện tử và hạt ánh sáng xanh"
+          src="https://unsplash.com"
+          alt="Cận cảnh giày đá bóng"
           referrerPolicy="no-referrer"
           className="w-full h-full object-cover object-bottom scale-100 group-hover:scale-[1.02] transition-transform duration-700 ease-out"
         />
